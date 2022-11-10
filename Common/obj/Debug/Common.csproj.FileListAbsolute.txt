@@ -1,0 +1,26 @@
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\HPlusSports.Common.dll.config
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\HPlusSports.Common.dll
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\HPlusSports.Common.pdb
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\EntityFramework.dll
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\MediatR.dll
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\EntityFramework.xml
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\obj\Debug\HPlusSports.Common.dll
+C:\Users\Reza\Downloads\Ex_Files_Deploying_ASP_NET_Apps\Ex_Files_Deploying_ASP_NET_Apps\Exercise Files\DemoApp\DemoApp\Common\obj\Debug\HPlusSports.Common.pdb
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\HPlusSports.Common.dll.config
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\HPlusSports.Common.dll
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\HPlusSports.Common.pdb
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\EntityFramework.dll
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\MediatR.dll
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\EntityFramework.xml
+C:\Users\fella\Code\DemoApp\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fella\Code\DemoApp\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\fella\Code\DemoApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\fella\Code\DemoApp\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\fella\Code\DemoApp\Common\obj\Debug\HPlusSports.Common.dll
+C:\Users\fella\Code\DemoApp\Common\obj\Debug\HPlusSports.Common.pdb
